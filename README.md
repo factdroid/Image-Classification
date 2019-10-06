@@ -1,1 +1,1 @@
-Image Classification of Elmina and Cape coast Castles in Ghana
+Image Classification of Elmina and Cape Coast castles in Ghana
